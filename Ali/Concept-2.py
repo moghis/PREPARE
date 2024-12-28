@@ -1,7 +1,7 @@
 # Classification Task with Concept Autoencoder
-# Target: CDRGLOB
+# Target: composite_score
 # Run correct. Problem with results
-# SCAN dataset 
+# ADRC Competition dataset 
 
 import pandas as pd
 import numpy as np
