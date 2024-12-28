@@ -168,8 +168,8 @@ def train_concept_regressor(regressor, X_train_tensor, y_train_tensor, num_epoch
 
 if __name__ == "__main__":
     
-    datasets = ['/home/data3/Ali/Code/Moghis/Train-data-preprocess-2.xlsx']
-    datasets_test = ['/home/data3/Ali/Code/Moghis/Test-data-preprocess-2.xlsx']
+    datasets = ['/home/data3/Ali/Code/Moghis/Train-data-preprocessed-2.xlsx']
+    datasets_test = ['/home/data3/Ali/Code/Moghis/Test-data-preprocessed-2.xlsx']
     
     features_list = [
     'uid', 'age_03', 'urban_03', 'married_03', 'n_mar_03', 'edu_gru_03', 'n_living_child_03',
